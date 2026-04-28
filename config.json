@@ -9,7 +9,7 @@
   "all": true,
   "group": "genre",
   "regionalize": false,
-  "excludeGroups": "Movies|Comedy|South Park|Classic TV Comedy|Classic TV|Westerns|Crime Drama|True Crime|Sci-Fi + Fantasy|Paranormal|Drama|Reality|Competition Reality|Game Shows|Daytime & Talk Shows|Documentary + Science|News + Opinion|Local News|Home + Food|Kids|Kids en Français|Sports|Películas|Series|Retro|Novelas|Curiosidad|Competencia|Zona Paranormal|Investigación|Noticias|Deportes|Comedia|Entretenimiento|Estilo de Vida|Anime & Gaming|Teen|Sci-Fi|April Ghouls|Entertainment|Daytime + Game Shows|History + Science|Animals + Nature|Anime|En Español",
+  "excludeGroups": "Movies|Comedy|South Park|Classic TV Comedy|Classic TV|Westerns|Crime Drama|True Crime|Sci-Fi + Fantasy|Paranormal|Drama|Reality|Competition Reality|Game Shows|Daytime & Talk Shows|Documentary|News|Local News|Home|Kids|Kids en Français|Sports|Películas|Series|Retro|Novelas|Curiosidad|Competencia|Zona Paranormal|Investigación|Noticias|Deportes|Comedia|Entretenimiento|Estilo de Vida|Anime & Gaming|Teen|Sci-Fi|April Ghouls|Entertainment|Daytime + Game Shows|History|Animals|Anime|En Español",
   "excludeChannels": false,
   "uniqueClientid": false,
   "randomClientid": false,
